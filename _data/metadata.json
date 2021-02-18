@@ -1,0 +1,20 @@
+{
+    "title": "Chanda & the Passengers",
+    "url": "https://thepassengersband.com/",
+    "description": "Chanda & the Passengers.",
+    "feed": {
+      "subtitle": "Chanda & the Passengers",
+      "filename": "feed.xml",
+      "path": "/feed/feed.xml",
+      "id": "https://thepassengersband.com/"
+    },
+    "jsonfeed": {
+      "path": "/feed/feed.json",
+      "url": "https://thepassengersband.com/feed/feed.json"
+    },
+    "author": {
+      "name": "The Passengers",
+      "email": "booking@thepassengersband.com",
+      "url": "https://thepassengersband.com/about-me/"
+    }
+  }
